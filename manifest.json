@@ -1,0 +1,13 @@
+{
+   "content_scripts": [ {
+      "exclude_globs": [  ],
+      "include_globs": [ "*kingdomofloathing.com/charsheet.php"],
+      "js": [ "script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "converted_from_user_script": true,
+   "description": "Version 0.02",
+   "name": "Orez - Format Skills",
+   "version": "1.0",
+   "manifest_version": 2
+}
