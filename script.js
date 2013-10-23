@@ -3,7 +3,7 @@
 // @name           Orez - Format Skills
 // @author         Orez
 // @include        *kingdomofloathing.com/charsheet.php
-// @description    Version 0.02
+// @description    Version 0.0.3
 // ==/UserScript==
 
 function q()
@@ -120,18 +120,17 @@ function q()
       ],
       [
         ["discoball.gif", "Disco Aerobics"],
-        ["hernia.gif", "Suckerpunch"],
         ["eyepoke.gif", "Disco Eye-Poke"],
         ["numberone.gif", "Overdeveloped Sense of Self Preservation"],
         ["sleepy.gif", "Disco Nap"],
-        ["dance1.gif", "Disco Dance of Doom"],
+        ["dance2.gif", "Disco Dance II: Electric Boogaloo"],
         ["shaker.gif", "Advanced Cocktailcrafting"],
         ["glove.gif", "Nimble Fingers"],
-        ["dance2.gif", "Disco Dance II: Electric Boogaloo"],
+        ["dv_remknife.gif", "Tricky Knifework"],
         ["chest.gif", "Mad Looting Skillz"],
-        ["powernap.gif", "Disco Power Nap"],
-        ["facestab.gif", "Disco Face Stab"],
-        ["acrossbow.gif", "Disco Fever"],
+        ["dollarsign.gif", "Disco Greed"],
+        ["discobravado.gif", "Disco Bravado"],
+        ["powernap.gif", "Adventurer of Leisure"],
         ["ambidex.gif", "Ambidextrous Funkslinging"],
         ["blackwink.gif", "Heart of Polyester"],
         ["footprints.gif", "Smooth Movement"],
@@ -140,6 +139,24 @@ function q()
         ["saltshaker.gif", "Salacious Cocktailcrafting"],
         ["mistletoe.gif", "Stealth Mistletoe"],
         ["kungfu.gif", "Kung Fu Hustler"]
+      ],
+      [
+        ["hernia.gif", "Suckerpunch"],
+        ["glove.gif", "Deft Hands"],
+        ["dance1.gif", "Disco Dance of Doom"],
+        ["moxman.gif", "Disco State of Mind"],
+        ["spiral.gif", "Frantic Gyrations"],
+        ["knife.gif", "That's Not a Knife"],
+        ["facestab.gif", "Disco Face Stab"],
+        ["flashydancer.gif", "Flashy Dancer"],
+        ["wink.gif", "Disco Smirk"],
+        ["knifedark.gif", "Knife in the Dark"],
+        ["irondagger.gif", "Disco Shank"],
+        ["dance3.gif", "Disco Dance 3: Back in the Habit"],
+        ["fire.gif", "Disco Inferno"],
+        ["discomask.gif", "Disco Fever"],
+        ["sensifingers.gif", "Sensitive Fingers"],
+        ["discoleer.gif", "Disco Leer"]
       ],
       [
         ["accordion.gif", "Moxie of the Mariachi"],
