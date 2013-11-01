@@ -160,7 +160,6 @@ function q()
       ],
       [
         ["accordion.gif", "Moxie of the Mariachi"],
-        ["breath.gif", "Sing"],
         ["madrigal.gif", "The Moxious Madrigal"],
         ["mojomusc.gif", "The Magical Mojomuscular Melody"],
         ["celerity.gif", "Cletus's Canticle of Celerity"],
@@ -180,6 +179,25 @@ function q()
         ["bubblyballad.gif", "Donho's Bubbly Ballad"],
         ["curative.gif", "Cringle's Curative Carol"],
         ["incantation.gif", "Inigo's Incantation of Inspiration"]
+      ],
+      [
+        ["breath.gif", "Sing"],
+        ["brokenflute.gif", "Dissonant Riff"],
+        ["cadenza.gif", "Cadenza"],
+        ["crabclaw.gif", "Crab Claw Technique"],
+        ["acc1.gif", "Accordion Bash"],
+        ["acc17.gif", "Accordion Appreciation"],
+        ["cdlm.gif", "Concerto de los Muertos"],
+        ["dollarsign.gif", "Five Finger Discount"],
+        ["susgaze.gif", "Suspicious Gaze"],
+        ["bawdyrefrain.gif", "Bawdy Refrain"],
+        ["thiefeyes.gif", "Thief Among the Honorable"],
+        ["stickygloves.gif", "Sticky Fingers"],
+        ["zydecone.gif", "Cone of Zydeco"],
+        ["moneybag.gif", "Master Accordion Master Thief"],
+        ["coolsmile.gif", "Knowing Smile"],
+        ["mariachimem.gif", "Mariachi Memory"],
+        ["acc1.gif", "Steal Accordion"]
       ],
       [
         ["eyesright.gif", "Powers of Observatiogn"],

@@ -6,8 +6,8 @@
       "matches": [ "http://*/*", "https://*/*" ]
    } ],
    "converted_from_user_script": true,
-   "description": "Version 0.0.3",
+   "description": "Version 0.0.4",
    "name": "Orez - Format Skills",
-   "version": "0.0.3",
-   "manifest_version": 3
+   "version": "0.0.4",
+   "manifest_version": 4
 }
