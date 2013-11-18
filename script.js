@@ -27,9 +27,7 @@ function q()
         ["moosemusk.gif", "Musk of the Moose"],
         ["blackhammer.gif", "Pulverize"],
         ["wolfmask.gif", "Snarl of the Timberwolf"],
-        ["hookspear.gif", "Harpoon!"],
-        ["bathroomscale.gif", "Holiday Weight Gain"],
-        ["palmtree.gif", "Iron Palm Technique"]
+        ["hookspear.gif", "Harpoon!"]
       ],
       [
         ["clobber.gif", "Clobber"],
@@ -47,7 +45,9 @@ function q()
         ["cavalcade.gif", "Cavalcade of Fury"],
         ["northernexp.gif", "Northern Explosion"],
         ["reticle.gif", "Precision of the Penguin"],
-        ["trophy.gif", "Pride of the Puffin"]
+        ["trophy.gif", "Pride of the Puffin"],
+        ["bathroomscale.gif", "Holiday Weight Gain"],
+        ["palmtree.gif", "Iron Palm Technique"]
       ],
       [
         ["tortpatience.gif", "Patience of the Tortoise"],
@@ -67,9 +67,7 @@ function q()
         ["halfshell.gif", "Hero of the Half-Shell"],
         ["tao.gif", "Tao of the Terrapin"],
         ["ssnapper.gif", "Spectral Snapper"],
-        ["leviatuga.gif", "Summon Leviatuga"],
-        ["jinglebells.gif", "Jingle Bells"],
-        ["turtle.gif", "Curiosity of Br'er Tarrypin"]
+        ["leviatuga.gif", "Summon Leviatuga"]
       ],
       [
         ["toss.gif", "Toss"],
@@ -87,7 +85,9 @@ function q()
         ["calendar.gif", "The Long View"],
         ["spiritboon.gif", "Spirit Boon"],
         ["patientsmile.gif", "Patient Smile"],
-        ["turtlepower.gif", "Turtle Power"]
+        ["turtlepower.gif", "Turtle Power"],
+        ["jinglebells.gif", "Jingle Bells"],
+        ["turtle.gif", "Curiosity of Br'er Tarrypin"]
       ],
       [
         ["mandala.gif", "Manicotti Meditation"],
@@ -107,9 +107,7 @@ function q()
         ["flavorofmagic.gif", "Flavour of Magic"],
         ["blacknoodles.gif", "Transcendental Noodlecraft"],
         ["fearfulfet.gif", "Fearful Fettucini"],
-        ["batter2.gif", "Tempuramancy"],
-        ["candypile.gif", "Candyblast"],
-        ["scharm.gif", "Stringozzi Serpent"]
+        ["batter2.gif", "Tempuramancy"]
       ],
       [
         ["line.gif", "Spaghetti Spear"],
@@ -127,7 +125,9 @@ function q()
         ["quicktoanger.gif", "Subtle and Quick to Anger"],
         ["t_lasagmbie.gif", "Bind Lasagmbie"],
         ["wizardsquint.gif", "Wizard Squint"],
-        ["t_spiceghost.gif", "Bind Spice Ghost"]
+        ["t_spiceghost.gif", "Bind Spice Ghost"],
+        ["candypile.gif", "Candyblast"],
+        ["scharm.gif", "Stringozzi Serpent"]
       ],
       [
         ["contemplation.gif", "Sauce Contemplation"],
@@ -147,9 +147,7 @@ function q()
         ["spunk.gif", "Irrepressible Spunk"],
         ["potion9.gif", "The Way of Sauce"],
         ["scarysauce.gif", "Scarysauce"],
-        ["potion10.gif", "Deep Saucery"],
-        ["icingsurge.gif", "Surge of Icing"],
-        ["cheesestorm.gif", "Käsesoßesturm"]
+        ["potion10.gif", "Deep Saucery"]
       ],
       [
         ["salsaball.gif", "Salsaball"],
@@ -167,7 +165,9 @@ function q()
         ["scurse4.gif", "Curse of Weaksauce"],
         ["wrysmile.gif", "Wry Smile"],
         ["saucemonocle.gif", "Sauce Monocle"],
-        ["saucedrops.gif", "Blood Sugar Sauce Magic"]
+        ["saucedrops.gif", "Blood Sugar Sauce Magic"],
+        ["icingsurge.gif", "Surge of Icing"],
+        ["cheesestorm.gif", "Käsesoßesturm"]
       ],
       [
         ["discoball.gif", "Disco Aerobics"],
@@ -187,9 +187,7 @@ function q()
         ["footprints.gif", "Smooth Movement"],
         ["fruitym.gif", "Superhuman Cocktailcrafting"],
         ["terrortango.gif", "Tango of Terror"],
-        ["saltshaker.gif", "Salacious Cocktailcrafting"],
-        ["mistletoe.gif", "Stealth Mistletoe"],
-        ["kungfu.gif", "Kung Fu Hustler"]
+        ["saltshaker.gif", "Salacious Cocktailcrafting"]
       ],
       [
         ["hernia.gif", "Suckerpunch"],
@@ -207,7 +205,9 @@ function q()
         ["fire.gif", "Disco Inferno"],
         ["discomask.gif", "Disco Fever"],
         ["sensifingers.gif", "Sensitive Fingers"],
-        ["discoleer.gif", "Disco Leer"]
+        ["discoleer.gif", "Disco Leer"],
+        ["mistletoe.gif", "Stealth Mistletoe"],
+        ["kungfu.gif", "Kung Fu Hustler"]
       ],
       [
         ["accordion.gif", "Moxie of the Mariachi"],
@@ -227,9 +227,7 @@ function q()
         ["cantata.gif", "Carlweather's Cantata of Confrontation"],
         ["urkels.gif", "Ur-Kel's Aria of Annoyance"],
         ["dirge.gif", "Dirge of Dreadfulness"],
-        ["bubblyballad.gif", "Donho's Bubbly Ballad"],
-        ["curative.gif", "Cringle's Curative Carol"],
-        ["incantation.gif", "Inigo's Incantation of Inspiration"]
+        ["bubblyballad.gif", "Donho's Bubbly Ballad"]
       ],
       [
         ["breath.gif", "Sing"],
@@ -247,7 +245,9 @@ function q()
         ["zydecone.gif", "Cone of Zydeco"],
         ["moneybag.gif", "Master Accordion Master Thief"],
         ["coolsmile.gif", "Knowing Smile"],
-        ["mariachimem.gif", "Mariachi Memory"]
+        ["mariachimem.gif", "Mariachi Memory"],
+        ["curative.gif", "Cringle's Curative Carol"],
+        ["incantation.gif", "Inigo's Incantation of Inspiration"]
       ],
       [
         ["eyesright.gif", "Powers of Observatiogn"],
