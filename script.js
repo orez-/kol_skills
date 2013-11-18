@@ -3,7 +3,7 @@
 // @name           Orez - Format Skills
 // @author         Orez
 // @include        *kingdomofloathing.com/charsheet.php
-// @description    Version 0.0.3
+// @description    Displays KoL skills more concisely.
 // ==/UserScript==
 
 function q()
@@ -16,7 +16,7 @@ function q()
         ["sebashield.gif", "Blubber Up"], 
         ["club.gif", "Thrust-Smack"], 
         ["hammer.gif", "Super-Advanced Meatsmithing"],
-        ["eyeball.gif", "Eye of the Stoat"], 
+        ["weasel.gif", "Thirst of the Weasel"], 
         ["yakskin.gif", "Hide of the Walrus"], 
         ["3clawsbig.gif", "Claws of the Walrus"],
         ["tonguewalrus.gif", "Tongue of the Walrus"],
@@ -43,7 +43,7 @@ function q()
         ["clubfoot.gif", "Club Foot"],
         ["madcat.gif", "Seething of the Snow Leopard"],
         ["orca.gif", "Ire of the Orca"],
-        ["weasel.gif", "Thirst of the Weasel"],
+        ["ballbat.gif", "Batter Up!"],
         ["cavalcade.gif", "Cavalcade of Fury"],
         ["northernexp.gif", "Northern Explosion"],
         ["reticle.gif", "Precision of the Penguin"],
@@ -51,7 +51,6 @@ function q()
       ],
       [
         ["tortpatience.gif", "Patience of the Tortoise"],
-        ["toss.gif", "Toss"],
         ["headbutt.gif", "Headbutt"],
         ["skin.gif", "Skin of the Leatherback"],
         ["sympathy.gif", "Amphibian Sympathy"],
@@ -60,8 +59,8 @@ function q()
         ["snapper.gif", "Tenacity of the Snapper"],
         ["kneebutt.gif", "Kneebutt"],
         ["empathy.gif", "Empathy of the Newt"],
+        ["spikyshell.gif", "Spiky Shell"],
         ["scharm.gif", "Reptilian Fortitude"],
-        ["simpleshield.gif", "Shieldbutt"],
         ["wisdom.gif", "Wisdom of the Elder Tortoises"],
         ["blackshell.gif", "Astral Shell"],
         ["blackskull.gif", "Cold-Blooded Fearlessness"],
@@ -73,8 +72,25 @@ function q()
         ["turtle.gif", "Curiosity of Br'er Tarrypin"]
       ],
       [
+        ["toss.gif", "Toss"],
+        ["palmtree.gif", "Spirit Vacation"],
+        ["warsnapper.gif", "Blessing of the War Snapper"],
+        ["stiffupperlip.gif", "Stiff Upper Lip"],
+        ["pizzaslice.gif", "Pizza Lover"],
+        ["shellup.gif", "Shell Up"],
+        ["spiritsnap.gif", "Spirit Snap"],
+        ["shewhowas.gif", "Blessing of She-Who-Was"],
+        ["steel.gif", "Butts of Steel"],
+        ["sayturtle.gif", "Testudinal Teachings"],
+        ["simpleshield.gif", "Shieldbutt"],
+        ["stormtort.gif", "Blessing of the Storm Tortoise"],
+        ["calendar.gif", "The Long View"],
+        ["spiritboon.gif", "Spirit Boon"],
+        ["patientsmile.gif", "Patient Smile"],
+        ["turtlepower.gif", "Turtle Power"]
+      ],
+      [
         ["mandala.gif", "Manicotti Meditation"],
-        ["line.gif", "Spaghetti Spear"],
         ["ravshurikens.gif", "Ravioli Shurikens"],
         ["entnoodles.gif", "Entangling Noodles"],
         ["lasbandage.gif", "Lasagna Bandages"],
@@ -96,27 +112,62 @@ function q()
         ["scharm.gif", "Stringozzi Serpent"]
       ],
       [
+        ["line.gif", "Spaghetti Spear"],
+        ["pizzacut.gif", "Utensil Twist"],
+        ["aldente.gif", "Transcendent Al Dente"],
+        ["t_vampieroghi.gif", "Bind Vampieroghi"],
+        ["archedeyebrow.gif", "Arched Eyebrow of the Archmage"],
+        ["t_vermincelli.gif", "Bind Vermincelli"],
+        ["bringuptherear.gif", "Bringing Up the Rear"],
+        ["t_wisp.gif", "Bind Angel Hair Wisp"],
+        ["pastashield.gif", "Shield of the Pastalord"],
+        ["t_elbowmac.gif", "Bind Undead Elbow Macaroni"],
+        ["tactics.gif", "Thrall Unit Tactics"],
+        ["t_dreadful.gif", "Bind Penne Dreadful"],
+        ["quicktoanger.gif", "Subtle and Quick to Anger"],
+        ["t_lasagmbie.gif", "Bind Lasagmbie"],
+        ["wizardsquint.gif", "Wizard Squint"],
+        ["t_spiceghost.gif", "Bind Spice Ghost"]
+      ],
+      [
         ["contemplation.gif", "Sauce Contemplation"],
-        ["salsaball.gif", "Salsaball"],
+        ["scurse1.gif", "Curse of Vichyssoise"],
         ["saucestream.gif", "Stream of Sauce"],
-        ["saucysalve.gif", "Saucy Salve"],
         ["saucepan.gif", "Expert Panhandling"],
         ["elesphere.gif", "Elemental Saucesphere"],
         ["lovepotion.gif", "Advanced Saucecrafting"],
-        ["raincloud.gif", "Saucestorm"],
+        ["soulsauce.gif", "Soul Saucery"],
         ["pepsphere.gif", "Jalapeño Saucesphere"],
-        ["saucewave.gif", "Wave of Sauce"],
+        ["triggerfinger.gif", "Itchy Curse Finger"],
         ["pepper.gif", "Intrinsic Spiciness"],
-        ["pepsphere2.gif", "Jabañero Saucesphere"],
+        ["mastersaucier.gif", "Master Saucier"],
         ["saucegeyser.gif", "Saucegeyser"],
         ["5alarm.gif", "Impetuous Sauciness"],
         ["blackstench.gif", "Diminished Gag Reflex"],
-        ["spice.gif", "Immaculate Seasoning"],
+        ["spunk.gif", "Irrepressible Spunk"],
         ["potion9.gif", "The Way of Sauce"],
         ["scarysauce.gif", "Scarysauce"],
         ["potion10.gif", "Deep Saucery"],
         ["icingsurge.gif", "Surge of Icing"],
         ["cheesestorm.gif", "Käsesoßesturm"]
+      ],
+      [
+        ["salsaball.gif", "Salsaball"],
+        ["simmer.gif", "Simmer"],
+        ["saucysalve.gif", "Saucy Salve"],
+        ["icyglare.gif", "Icy Glare"],
+        ["innersauce.gif", "Inner Sauce"],
+        ["raincloud.gif", "Saucestorm"],
+        ["scurse3.gif", "Curse of Marinara"],
+        ["saucewave.gif", "Wave of Sauce"],
+        ["scurse2.gif", "Curse of the Thousand Islands"],
+        ["saucicle.gif", "Saucecicle"],
+        ["antibiosphere.gif", "Antibiotic Saucesphere"],
+        ["saucemaven.gif", "Saucemaven"],
+        ["scurse4.gif", "Curse of Weaksauce"],
+        ["wrysmile.gif", "Wry Smile"],
+        ["saucemonocle.gif", "Sauce Monocle"],
+        ["saucedrops.gif", "Blood Sugar Sauce Magic"]
       ],
       [
         ["discoball.gif", "Disco Aerobics"],
@@ -196,8 +247,7 @@ function q()
         ["zydecone.gif", "Cone of Zydeco"],
         ["moneybag.gif", "Master Accordion Master Thief"],
         ["coolsmile.gif", "Knowing Smile"],
-        ["mariachimem.gif", "Mariachi Memory"],
-        ["acc1.gif", "Steal Accordion"]
+        ["mariachimem.gif", "Mariachi Memory"]
       ],
       [
         ["eyesright.gif", "Powers of Observatiogn"],
