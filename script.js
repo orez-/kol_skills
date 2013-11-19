@@ -159,7 +159,7 @@ function q()
         ["scurse3.gif", "Curse of Marinara"],
         ["saucewave.gif", "Wave of Sauce"],
         ["scurse2.gif", "Curse of the Thousand Islands"],
-        ["saucicle.gif", "Saucecicle"],
+        ["saucecicle.gif", "Saucecicle"],
         ["antibiosphere.gif", "Antibiotic Saucesphere"],
         ["saucemaven.gif", "Saucemaven"],
         ["scurse4.gif", "Curse of Weaksauce"],
